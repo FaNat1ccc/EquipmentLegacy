@@ -1,4 +1,5 @@
 ﻿// TODO 6: Сохранять выбранный фильтр и тему интерфейса в HKCU.
+// TODO 10: Добавить номер версии схемы настроек.
 using Microsoft.Win32;
 
 namespace Variant04.Core.Services;
