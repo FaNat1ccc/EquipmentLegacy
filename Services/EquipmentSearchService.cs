@@ -1,4 +1,5 @@
 ﻿// TODO 2: Вынести повторяющуюся логику поиска в отдельный сервис.
+// TODO 4: Добавить фильтрацию оборудования через LINQ.
 using System.Collections.Generic;
 using System.Linq;
 using Variant04.Core.Models;
